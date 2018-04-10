@@ -14,7 +14,7 @@
 .my-title{
 	font-size: 4rem;
 	font-weight: 900;
-	color: white;
+	color: red;
 }
 
 /*6. enlarge the font size to: 1.25rem*/
@@ -35,6 +35,7 @@
 	font-size: 3rem;
 	font-weight: 100; 
 	color: white;
+	text-shadow: 2px 2px 0 orangered;
 }
 
 /*13. add a text shadow with the following specs:
@@ -43,6 +44,5 @@
 	shadow blur: 0
 	color: orangered*/
 .my-strong{
-	text-shadow: 2px 2px 0 orangered;
-	
-}
+	text-shadow: 3px 3px 0 purple;
+	}
